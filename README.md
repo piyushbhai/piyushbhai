@@ -1,11 +1,9 @@
 ### Hi there, I'm Piyush👦,
-A Full Stack Web developer🎯 and designer🎨 from India.
+A Full Stack Web developer🎯 from India.
 
 - 👨‍💻 Full Stack MERN Developer
-- 🎥 Learn Web Development from me [@RoadsideCoder](https://www.youtube.com/roadsidecoder) <!-- - 🌱 Currently learning Svelte. -->
-- 📚 What do I believe? Jack of all, Master of some.
-- 📫 How to reach me: [Instagram](https://instagram.com/roadsidecoder) - [@Piyush_eon](https://instagram.com/piyush_eon) or [@RoadsideCoder](https://instagram.com/roadsidecoder)
-- 🎙 Freelance [Voice Over Artist](https://piyushvo.netlify.app/).
+- 📚 What do I believe? Experience is the name everyone gives to their mistakes.
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/piyushprajapati16)
 
 **Languages:**  
 
@@ -18,18 +16,18 @@ A Full Stack Web developer🎯 and designer🎨 from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush-eon&theme=tokyonight&show_icons=true&hide=["issues"])
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-eon&theme=tokyonight&layout=compact)
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyushbhai&theme=tokyonight&show_icons=true&hide=[%22issues%22])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushbhai&theme=tokyonight&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=piyush-eon)
+![](https://komarev.com/ghpvc/?username=piyushbhai)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
- <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/piyush-eon/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piyush%20Agarwal-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/piyush_eon/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-piyush_eon-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:piyushagarwalvo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-piyushagarwalvo@gmail.com-blue?style=flat-square&logo=gmail"></a>
+ <a href="https://piyushprajapati.tech/"><img alt="Website" src="https://img.shields.io/badge/Website-www.piyushprajapati.tech-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/piyushprajapati16/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piyush%20Prajapati-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/piyush_h_prajapati/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-piyush_h_prajapati-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:prajapati.piyush16@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-prajapati.piyush16@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
- <!--⭐️ From [Piyush Agarwal](https://github.com/piyush-eon)-->
+ <!--⭐️ From [Piyush Prajapati](https://github.com/piyushbhai)-->
